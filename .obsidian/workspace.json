@@ -81,23 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "604c31b1f6ecf778",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Daily/2024-08-20.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "8cce74d6030d7387",
             "type": "leaf",
             "state": {
@@ -114,7 +97,24 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Daily/2024-08-20.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "604c31b1f6ecf778",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-08-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -167,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e5fb17f465c8e8b",
+  "active": "604c31b1f6ecf778",
   "lastOpenFiles": [
     "Daily/2024-08-20.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
