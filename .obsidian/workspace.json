@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7894c6512d0f1a",
+        "id": "a7393b7529b3e49a",
         "type": "tabs",
         "children": [
           {
-            "id": "8c28b7bf34d164a1",
+            "id": "a861f0fef9a69a5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-08-20.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -85,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-08-20.md"
-              }
+              "state": {}
             }
           },
           {
@@ -96,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-08-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "604c31b1f6ecf778",
+  "active": "a861f0fef9a69a5a",
   "lastOpenFiles": [
     "Daily/2024-08-20.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
