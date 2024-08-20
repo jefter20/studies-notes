@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "bad18968ae08c677",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b7894c6512d0f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c28b7bf34d164a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-08-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75c387255fc62c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "951d3ea325f3b7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c63543d9acd8000",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77f55d0693f80c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cc108d784db1e8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 524.5
+  },
+  "right": {
+    "id": "1b477cbe0d5d0b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae3769cc6671db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "604c31b1f6ecf778",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-08-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cce74d6030d7387",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024-08-20.md"
+              }
+            }
+          },
+          {
+            "id": "6a6cf7776a036d82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024-08-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b5852aca9115bfab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e142f8f9da6ac78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "92caee2a3bd72ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e5fb17f465c8e8b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e5fb17f465c8e8b",
+  "lastOpenFiles": [
+    "Daily/2024-08-20.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.2 - Online platform to run javascript codes.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/4 - Errors/4.1 - Errors.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/3 - Projects/3.1 - Hash.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/2 - Configuring the environment/2.1 - Configuring the environment.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.2 Data type - Number.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.1 What are Data types.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.2 Where is javascript used.md",
+    "README.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.3 - Data types exercises",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/4 - Errors",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/3 - Projects",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/2 - Configuring the environment",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy",
+    "Daily/Javascript from basic to advanced - Udemy"
+  ]
+}
