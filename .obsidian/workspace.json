@@ -11,8 +11,12 @@
             "id": "a861f0fef9a69a5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 658.5
   },
   "right": {
     "id": "1b477cbe0d5d0b5a",
@@ -81,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled.md"
+              }
             }
           },
           {
@@ -90,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -101,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c63543d9acd8000",
+  "active": "a861f0fef9a69a5a",
   "lastOpenFiles": [
-    "University/University Cruzeiro do Sul/(b) - Second semester/Untitled 10",
-    "University/University Cruzeiro do Sul/(b) - Second semester/Untitled 9",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled 5.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled 4.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled 3.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled 2.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled 1.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/Untitled.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/11 - Extension discipline_Integration of skills to transform the sel, others and society",
+    "University/University Cruzeiro do Sul/(b) - Second semester/10 - Transversal themes",
     "University/University Cruzeiro do Sul/(b) - Second semester/9 - Career monitoring plan in coding I",
     "University/University Cruzeiro do Sul/(b) - Second semester/8 - Integrated assessment of coding skills I",
     "University/University Cruzeiro do Sul/(b) - Second semester/7 - Object-oriented programming",
@@ -171,7 +185,6 @@
     "University/University Cruzeiro do Sul/(b) - Second semester/4 -  DevOps fundamentals",
     "University/University Cruzeiro do Sul/(b) - Second semester/3 - Data modeling",
     "University/University Cruzeiro do Sul/(b) - Second semester/2 - Data structure",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes",
     "Daily/2024-08-20.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.2 - Online platform to run javascript codes.md",
