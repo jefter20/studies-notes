@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
+                "file": "Tutoriais/Obsidian/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
+            "file": "Tutoriais/Obsidian/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
+            "file": "Tutoriais/Obsidian/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md"
+            "file": "Tutoriais/Obsidian/Untitled.md"
           }
         }
       },
@@ -139,8 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "512dcadc6b5ad604",
+  "active": "d54652f9ded14808",
   "lastOpenFiles": [
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
+    "Tutoriais/Obsidian/Untitled.md",
+    "Tutoriais/Obsidian",
     "Tutoriais",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.2 - Unity I.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.4 - Unity III.md",
