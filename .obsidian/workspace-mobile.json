@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
+                "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
+            "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
+            "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md"
+            "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md"
           }
         }
       },
@@ -142,6 +142,17 @@
   },
   "active": "e9b57fd72f4afa46",
   "lastOpenFiles": [
+    "Screenshot_20240909_192407_Termux.jpg",
+    "Screenshot_20240909_183945_Termux.jpg",
+    "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
+    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+    "Screenshot_20240909_183013_Termux.jpg",
+    "Screenshot_20240909_180754_Termux.jpg",
+    "Errors/Git errors/1 - Readme.md",
+    "Daily/2024-09-09.md",
+    "Errors/Git errors",
+    "Errors",
+    "Tutoriais/Obsidian/2 - How to git pull.md",
     "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
     "Tutoriais/Obsidian",
