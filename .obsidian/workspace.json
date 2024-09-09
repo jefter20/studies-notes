@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutoriais/Obsidian/2 - How to git pull.md",
+                "file": "Daily/2024-09-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutoriais/Obsidian/2 - How to git pull.md"
+                "file": "Daily/2024-09-09.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutoriais/Obsidian/2 - How to git pull.md",
+                "file": "Daily/2024-09-09.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutoriais/Obsidian/2 - How to git pull.md",
+                "file": "Daily/2024-09-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +169,21 @@
   },
   "active": "0b78e07cbc4163eb",
   "lastOpenFiles": [
-    "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
+    "Tutorials/Obsidian/2 - How to git pull.md",
+    "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+    "Tutorials/Obsidian",
+    "Tutorials",
+    "Screenshot_20240909_192407_Termux.jpg",
+    "Screenshot_20240909_183945_Termux.jpg",
+    "Screenshot_20240909_183013_Termux.jpg",
+    "Screenshot_20240909_180754_Termux.jpg",
+    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+    "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
+    "Errors/Git errors/1 - Readme.md",
+    "Errors/Git errors",
+    "Errors",
     "Tutoriais/Obsidian/2 - How to git pull.md",
+    "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
     "Daily/2024-09-09.md",
     "Tutoriais/Obsidian",
     "Tutoriais",
@@ -187,10 +200,6 @@
     "University/University Cruzeiro do Sul/(b) - Second semester/10 - Transversal themes",
     "University/University Cruzeiro do Sul/(b) - Second semester/9 - Career monitoring plan in coding I",
     "University/University Cruzeiro do Sul/(b) - Second semester/8 - Integrated assessment of coding skills I",
-    "University/University Cruzeiro do Sul/(b) - Second semester/7 - Object-oriented programming",
-    "University/University Cruzeiro do Sul/(b) - Second semester/6 - Web programming",
-    "University/University Cruzeiro do Sul/(b) - Second semester/5 - Database language",
-    "University/University Cruzeiro do Sul/(b) - Second semester/4 -  DevOps fundamentals",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.2 - Online platform to run javascript codes.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/4 - Errors/4.1 - Errors.md",
@@ -199,7 +208,6 @@
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.2 Data type - Number.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.1 What are Data types.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.2 Where is javascript used.md",
-    "README.md"
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.2 Where is javascript used.md"
   ]
 }
