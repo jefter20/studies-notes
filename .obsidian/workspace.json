@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7393b7529b3e49a",
+        "id": "5d734f7852201f74",
         "type": "tabs",
         "children": [
           {
-            "id": "d7bb9d909c7ee728",
+            "id": "0b78e07cbc4163eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-09-09.md",
+                "file": "Tutoriais/Obsidian/2 - How to git pull.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200
   },
   "right": {
     "id": "1b477cbe0d5d0b5a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-09-09.md"
+                "file": "Tutoriais/Obsidian/2 - How to git pull.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-09-09.md",
+                "file": "Tutoriais/Obsidian/2 - How to git pull.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-09.md",
+                "file": "Tutoriais/Obsidian/2 - How to git pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7bb9d909c7ee728",
+  "active": "0b78e07cbc4163eb",
   "lastOpenFiles": [
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.2 - Unity I.md",
+    "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
+    "Tutoriais/Obsidian/2 - How to git pull.md",
     "Daily/2024-09-09.md",
+    "Tutoriais/Obsidian",
+    "Tutoriais",
+    "Daily/2024-09-04.md",
+    "Daily/2024-09-03.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.2 - Unity I.md",
     "Daily/2024-08-20.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.6 - Unity V.md",
@@ -185,8 +191,6 @@
     "University/University Cruzeiro do Sul/(b) - Second semester/6 - Web programming",
     "University/University Cruzeiro do Sul/(b) - Second semester/5 - Database language",
     "University/University Cruzeiro do Sul/(b) - Second semester/4 -  DevOps fundamentals",
-    "University/University Cruzeiro do Sul/(b) - Second semester/3 - Data modeling",
-    "University/University Cruzeiro do Sul/(b) - Second semester/2 - Data structure",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.2 - Online platform to run javascript codes.md",
     "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/4 - Errors/4.1 - Errors.md",
