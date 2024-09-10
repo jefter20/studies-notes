@@ -9,3 +9,7 @@ Terminal utilizado:
 1.2 Em seguida abra o app obsidian -> selecione abrir vault com uma pasta existente -> selecione a pasta do repositorio remoto clonado, e pronto!
 
 1.3 Para enviar o conteúdo para o github são os comando tradicionais do git -> git add . -> git commit -m "descrição" -> git push
+
+
+
+Testando 
