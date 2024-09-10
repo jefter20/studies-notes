@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+                "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+            "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+            "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md"
+            "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md"
           }
         }
       },
@@ -142,14 +142,25 @@
   },
   "active": "e9b57fd72f4afa46",
   "lastOpenFiles": [
+    "Tutorials/Git/1 - How to git pull.md",
+    "README.md",
+    "Tutorials/Git",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.3 - Unity II.md",
+    "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+    "Daily/2024-09-09.md",
+    "Daily/2024-09-04.md",
+    "Daily/2024-09-03.md",
+    "Daily/2024-08-20.md",
+    "Tutorials/Obsidian",
+    "Tutorials",
     "Screenshot_20240909_192407_Termux.jpg",
     "Screenshot_20240909_183945_Termux.jpg",
     "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
-    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
     "Screenshot_20240909_183013_Termux.jpg",
     "Screenshot_20240909_180754_Termux.jpg",
     "Errors/Git errors/1 - Readme.md",
-    "Daily/2024-09-09.md",
     "Errors/Git errors",
     "Errors",
     "Tutoriais/Obsidian/2 - How to git pull.md",
@@ -158,10 +169,6 @@
     "Tutoriais/Obsidian",
     "Tutoriais",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.2 - Unity I.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.4 - Unity III.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
-    "Daily/2024-09-04.md",
-    "Daily/2024-09-03.md",
-    "Daily/2024-08-20.md"
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.4 - Unity III.md"
   ]
 }
