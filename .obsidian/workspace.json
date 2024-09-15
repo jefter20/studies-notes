@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-09-09.md",
+                "file": "Patterns/Git/1 - Commit message patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 415.5
   },
   "right": {
     "id": "1b477cbe0d5d0b5a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-09-09.md"
+                "file": "Patterns/Git/1 - Commit message patterns.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-09-09.md",
+                "file": "Patterns/Git/1 - Commit message patterns.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-09-09.md",
+                "file": "Patterns/Git/1 - Commit message patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,22 +169,38 @@
   },
   "active": "0b78e07cbc4163eb",
   "lastOpenFiles": [
-    "Tutorials/Obsidian/2 - How to git pull.md",
     "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
-    "Tutorials/Obsidian",
+    "Tutorials/Git/1 - How to git pull.md",
+    "Patterns/Git/1 - Commit message patterns.md",
+    "Pasted image 20240915020313.png",
+    "Pasted image 20240915015949.png",
+    "Errors/Git errors/4 - Error object file is empty.md",
+    "Patterns/Git",
+    "Patterns",
+    "Daily/2024-09-15.md",
+    "Screenshot_20240913_011037_Termux.jpg",
+    "Daily/2024-09-13.md",
+    "Daily/2024-09-12.md",
+    "Daily/2024-09-14.md",
+    "Daily/2024-09-10.md",
+    "Errors/Git errors/Tutorials/Obsidian/2 - How to git pull.md",
+    "Tutorials/Git",
     "Tutorials",
+    "Errors/Git errors/Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+    "Daily/2024-09-09.md",
+    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+    "Errors/Git errors/1 - Readme.md",
+    "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
+    "Errors/Git errors/Tutorials/Obsidian",
+    "Errors/Git errors/Tutorials",
     "Screenshot_20240909_192407_Termux.jpg",
     "Screenshot_20240909_183945_Termux.jpg",
     "Screenshot_20240909_183013_Termux.jpg",
     "Screenshot_20240909_180754_Termux.jpg",
-    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
-    "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
-    "Errors/Git errors/1 - Readme.md",
     "Errors/Git errors",
     "Errors",
     "Tutoriais/Obsidian/2 - How to git pull.md",
     "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
-    "Daily/2024-09-09.md",
     "Tutoriais/Obsidian",
     "Tutoriais",
     "Daily/2024-09-04.md",
@@ -194,20 +210,6 @@
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.6 - Unity V.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.4 - Unity III.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.3 - Unity II.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.5 - Unity IV.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/11 - Extension discipline_Integration of skills to transform the sel, others and society",
-    "University/University Cruzeiro do Sul/(b) - Second semester/10 - Transversal themes",
-    "University/University Cruzeiro do Sul/(b) - Second semester/9 - Career monitoring plan in coding I",
-    "University/University Cruzeiro do Sul/(b) - Second semester/8 - Integrated assessment of coding skills I",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.2 - Online platform to run javascript codes.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/4 - Errors/4.1 - Errors.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/3 - Projects/3.1 - Hash.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/2 - Configuring the environment/2.1 - Configuring the environment.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.2 Data type - Number.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.1 What are Data types.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
-    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.2 Where is javascript used.md"
+    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.3 - Unity II.md"
   ]
 }
