@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+                "file": "Errors/Git errors/4 - Error object file is empty.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+            "file": "Errors/Git errors/4 - Error object file is empty.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+            "file": "Errors/Git errors/4 - Error object file is empty.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md"
+            "file": "Errors/Git errors/4 - Error object file is empty.md"
           }
         }
       },
@@ -140,14 +140,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "512dcadc6b5ad604",
+  "active": "e9b57fd72f4afa46",
   "lastOpenFiles": [
+    "Daily/2024-09-15.md",
+    "Errors/Git errors/4 - Error object file is empty.md",
+    "Screenshot_20240913_011037_Termux.jpg",
+    "Daily/2024-09-13.md",
+    "Daily/2024-09-12.md",
+    "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
     "Tutorials/Git/1 - How to git pull.md",
     "README.md",
     "Tutorials/Git",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.3 - Unity II.md",
-    "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
     "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
     "Daily/2024-09-09.md",
     "Daily/2024-09-04.md",
