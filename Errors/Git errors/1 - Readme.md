@@ -1,1 +1,0 @@
-The name of the files on obsidian can't contain the following characters: / \ ? : " so instead of : we have the ; and instead of / we have the ! 
