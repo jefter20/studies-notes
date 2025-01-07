@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patterns/Git/1 - Commit message patterns.md",
+                "file": "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty"
             }
           }
         ],
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,8 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Patterns/Git/1 - Commit message patterns.md"
-              }
+                "file": "Courses/Web development/UI&UX/Figma/Curso Figma - Felipe Santana/2 -.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2 -"
             }
           },
           {
@@ -96,10 +106,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patterns/Git/1 - Commit message patterns.md",
+                "file": "Courses/Web development/UI&UX/Figma/Curso Figma - Felipe Santana/2 -.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2 -"
             }
           },
           {
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patterns/Git/1 - Commit message patterns.md",
+                "file": "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty"
             }
           }
         ],
@@ -134,7 +148,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -148,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -167,14 +185,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b78e07cbc4163eb",
+  "active": "6c63543d9acd8000",
   "lastOpenFiles": [
+    "Daily/2025-01-07.md",
+    "Screenshot_20240909_183945_Termux.jpg",
+    "Screenshot_20240909_183013_Termux.jpg",
+    "Screenshot_20240909_180754_Termux.jpg",
+    "Errors/Git errors/4 - Error object file is empty.md",
+    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
+    "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Resume.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms.md",
+    "Daily/2025-01-06.md",
+    "Daily/2025-01-05.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana",
+    "Courses/Web development/UI&UX/Figma",
+    "Courses/Web development/UI&UX",
+    "Daily/2024-09-30.md",
+    "Daily/2024-09-23.md",
+    "Patterns/Git/1 - Commit message patterns.md",
     "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
     "Tutorials/Git/1 - How to git pull.md",
-    "Patterns/Git/1 - Commit message patterns.md",
     "Pasted image 20240915020313.png",
     "Pasted image 20240915015949.png",
-    "Errors/Git errors/4 - Error object file is empty.md",
     "Patterns/Git",
     "Patterns",
     "Daily/2024-09-15.md",
@@ -188,28 +222,12 @@
     "Tutorials",
     "Errors/Git errors/Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
     "Daily/2024-09-09.md",
-    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
     "Errors/Git errors/1 - Readme.md",
-    "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
     "Errors/Git errors/Tutorials/Obsidian",
     "Errors/Git errors/Tutorials",
     "Screenshot_20240909_192407_Termux.jpg",
-    "Screenshot_20240909_183945_Termux.jpg",
-    "Screenshot_20240909_183013_Termux.jpg",
-    "Screenshot_20240909_180754_Termux.jpg",
     "Errors/Git errors",
-    "Errors",
     "Tutoriais/Obsidian/2 - How to git pull.md",
-    "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md",
-    "Tutoriais/Obsidian",
-    "Tutoriais",
-    "Daily/2024-09-04.md",
-    "Daily/2024-09-03.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.2 - Unity I.md",
-    "Daily/2024-08-20.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.6 - Unity V.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.4 - Unity III.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.3 - Unity II.md"
+    "Tutoriais/Obsidian/1 - How to sync obsidian to github no android..md"
   ]
 }
