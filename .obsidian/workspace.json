@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c37dc1b1f56ec74f",
+        "id": "55932cf392f15dcf",
         "type": "tabs",
         "children": [
           {
-            "id": "faf24f9aea9f579d",
+            "id": "506fd4e655e0c709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Resume.md",
+                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Resume"
+              "title": "2.7 - Defining a Grid"
             }
           }
         ],
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Class16",
+                "query": "tag:#ResetComponent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Resume.md",
+                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 - Resume"
+              "title": "Backlinks for 2.7 - Defining a Grid"
             }
           }
         ],
@@ -185,28 +185,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faf24f9aea9f579d",
+  "active": "506fd4e655e0c709",
   "lastOpenFiles": [
-    "wireframe.png",
-    "Pasted image 20250108182532.png",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Resume.md",
-    "template_website.png",
-    "manage_plugin.png",
-    "plugin_page.png",
-    "list_shortcuts.png",
-    "multiple_components.png",
-    "assets.png",
-    "Pasted image 20250108172515.png",
-    "component.png",
-    "Courses/Web development/UI&UX/Figma/Commonly used terms.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.6 - Wireframes.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.5 - Plugins.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.4 - Essential shortcuts.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.3 - Componentes e Assets.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.2 - Grid.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.1 - Frames.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview/1.1 - History and introduction.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started",
     "README.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Design Sistem.md",
+    "saving_grid.png",
+    "frame_grouping.png",
+    "saving grid.png",
+    "nudge.png",
+    "individual entities.png",
+    "relational entities.png",
+    "list_shortcuts.png",
+    "assets.png",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Pixel Perfect.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Atomic Design.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms",
+    "Pixel Perfect.md",
+    "margins.png",
+    "grid_elements.png",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.4 - Unity III.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.3 - Unity II.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.2 - Unity I.md",
     "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
     "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
     "Tutorials/Git/1 - How to git pull.md",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview.md",
     "Patterns/Git/1 - Commit message patterns.md",
     "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
     "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
@@ -214,23 +226,12 @@
     "Daily/2025-01-07.md",
     "Errors/Git errors/4 - Error object file is empty.md",
     "Daily/2025-01-06.md",
-    "Daily/2025-01-05.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana",
     "Courses/Web development/UI&UX/Figma",
     "Courses/Web development/UI&UX",
-    "Daily/2024-09-30.md",
-    "Daily/2024-09-23.md",
     "Patterns/Git",
     "Patterns",
-    "Daily/2024-09-15.md",
-    "Daily/2024-09-13.md",
-    "Daily/2024-09-12.md",
-    "Daily/2024-09-14.md",
-    "Daily/2024-09-10.md",
     "Tutorials/Git",
-    "Tutorials",
-    "Errors/Git errors/Tutorials/Obsidian",
-    "Errors/Git errors/Tutorials",
-    "Errors/Git errors"
+    "Tutorials"
   ]
 }
