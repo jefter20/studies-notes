@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 - Defining a Grid"
+              "title": "README"
             }
           }
         ],
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.7 - Defining a Grid"
+              "title": "Backlinks for README"
             }
           }
         ],
@@ -187,23 +187,36 @@
   },
   "active": "eb9c637a7af33f2a",
   "lastOpenFiles": [
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.8 - Tipografia.md",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.2 - Grid.md",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.1 - Frames.md",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/assets.png",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/colluns.png",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/Template for resume files.md",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.6 - Wireframes.md",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
+    "README.md",
+    "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+    "Tutorials/Git/1 - How to git pull.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.8 - Tipografia.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/colluns.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/assets.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.1 - Frames.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview/1.1 - History and introduction.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Pixel Perfect.md",
     "Courses/Web development/UI&UX/Figma/Commonly used terms/Design Sistem.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Atomic Design.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.2 - Online platform to run javascript codes.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/4 - Errors/4.1 - Errors.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/3 - Projects/3.1 - Hash.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/2 - Configuring the environment/2.1 - Configuring the environment.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.2 Data type - Number.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.1 What are Data types.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.2 Where is javascript used.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.2 - Grid.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.6 - Wireframes.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.5 - Plugins.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.4 - Essential shortcuts.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.3 - Componentes e Assets.md",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview/1.1 - History and introduction.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started",
-    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/README.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/saving_grid.png",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/frame_grouping.png",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/saving grid.png",
@@ -211,21 +224,9 @@
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/individual entities.png",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/relational entities.png",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/list_shortcuts.png",
-    "Courses/Web development/UI&UX/Figma/Commonly used terms/Pixel Perfect.md",
-    "Courses/Web development/UI&UX/Figma/Commonly used terms/Atomic Design.md",
     "Courses/Web development/UI&UX/Figma/Commonly used terms",
     "Pixel Perfect.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/margins.png",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.4 - Unity III.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.3 - Unity II.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.2 - Unity I.md",
-    "University/University Cruzeiro do Sul/(b) - Second semester/1 - Agile development processes/1.1 - Presentation.md",
-    "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
-    "Tutorials/Git/1 - How to git pull.md",
-    "Patterns/Git/1 - Commit message patterns.md",
-    "Errors/Git errors/3 - error; The following untracked working tree files would be overwritten by merge; Daily!2024-09-09.md.md",
-    "Errors/Git errors/2 - error; object file .git!objects!b9!db13506578b0fb57fa5c1b96ce24753a98ff9b is empty.md",
-    "Errors/Git errors/1 - Readme.md",
     "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana",
     "Courses/Web development/UI&UX/Figma",
     "Courses/Web development/UI&UX",
