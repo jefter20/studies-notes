@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "bad18968ae08c677",
+    "type": "split",
+    "children": [
+      {
+        "id": "e50d67cea242354a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb9c637a7af33f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/Template for resume files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template for resume files"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75c387255fc62c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "951d3ea325f3b7c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c63543d9acd8000",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77f55d0693f80c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ResetComponent",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9cc108d784db1e8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5
+  },
+  "right": {
+    "id": "1b477cbe0d5d0b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae3769cc6671db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cce74d6030d7387",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Courses/Web development/UI&UX/Figma/Curso Figma - Felipe Santana/2 -.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2 -"
+            }
+          },
+          {
+            "id": "6a6cf7776a036d82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Courses/Web development/UI&UX/Figma/Curso Figma - Felipe Santana/2 -.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2 -"
+            }
+          },
+          {
+            "id": "604c31b1f6ecf778",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/Template for resume files.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template for resume files"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b5852aca9115bfab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e142f8f9da6ac78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "92caee2a3bd72ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e5fb17f465c8e8b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb9c637a7af33f2a",
+  "lastOpenFiles": [
+    "README.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/Template for resume files.md",
+    "Tutorials/Obsidian/1 - How to sync obsidian to github no android..md",
+    "Tutorials/Git/1 - How to git pull.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.8 - Tipografia.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/colluns.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/assets.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.1 - Frames.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview/1.1 - History and introduction.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Pixel Perfect.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Design Sistem.md",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms/Atomic Design.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.2 - Online platform to run javascript codes.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/5 - Important links/5.1 - Reliable sites to ask questions.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/4 - Errors/4.1 - Errors.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/3 - Projects/3.1 - Hash.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/2 - Configuring the environment/2.1 - Configuring the environment.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.2 Data type - Number.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.2 - Data types and logical operators/1.2.1 What are Data types.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.2 Where is javascript used.md",
+    "Courses/Web development/Front-end/Javascript/Javascript from basic to advanced - Udemy/1 - Course content/1.1 - Introduction/1.1.1 What is javascript.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.7 - Defining a Grid.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.2 - Grid.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.6 - Wireframes.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.5 - Plugins.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.4 - Essential shortcuts.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started/2.3 - Componentes e Assets.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/1 - Overview",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/2 - Getting Started",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/saving_grid.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/frame_grouping.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/saving grid.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/nudge.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/individual entities.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/relational entities.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/list_shortcuts.png",
+    "Courses/Web development/UI&UX/Figma/Commonly used terms",
+    "Pixel Perfect.md",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana/img/margins.png",
+    "Courses/Web development/UI&UX/Figma/Figma Course - Felipe Santana",
+    "Courses/Web development/UI&UX/Figma",
+    "Courses/Web development/UI&UX",
+    "Patterns/Git",
+    "Patterns",
+    "Tutorials/Git"
+  ]
+}
