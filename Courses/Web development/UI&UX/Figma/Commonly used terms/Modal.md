@@ -1,9 +1,9 @@
-Modal é um elemento de interface do usuário (UI) que aparece em uma página web, cobrindo o conteúdo e exigindo a interação do usuário. 
+Modal is a user interface (UI) element that appears on a web page, covering the content and requiring user interaction. 
 
-Um modal é uma caixa pop-up que interrompe o fluxo de trabalho do usuário para que ele foque em um conteúdo específico. O usuário só pode voltar ao conteúdo original após interagir com o modal. 
+A modal is a pop-up box that interrupts the user's workflow so they can focus on specific content. The user can only return to the original content after interacting with the modal. 
 
-Os modais são usados para solicitar confirmações, exibir mensagens de alerta ou erro, e para autenticação. 
+Modals are used to request confirmations, display alert or error messages, and for authentication. 
 
-Alguns exemplos de modais são: Tela de login, Mensagem de alerta ou erro, Solicitação de confirmação, Tela de seleção de opções. 
+Some examples of modals are: Login screen, Alert or error message, Confirmation request, Options selection screen. 
 
-O Bootstrap Modal é um plugin que simplifica o desenvolvimento de aplicações web, permitindo a manipulação de janelas dinâmicas.
+Bootstrap Modal is a plugin that simplifies the development of web applications, allowing the manipulation of dynamic windows.

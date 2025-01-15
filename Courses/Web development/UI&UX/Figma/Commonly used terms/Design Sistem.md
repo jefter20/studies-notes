@@ -1,4 +1,3 @@
-
 Design system is a set of patterns, components and guidelines that guide the development of interfaces, website or web system. With the aim of creating a visual and functional identity, in addition to facilitating the work of designers and developers.
 
 The Design System guarantees the consistency and effectiveness of a digital product, and consequently, a better user experience.

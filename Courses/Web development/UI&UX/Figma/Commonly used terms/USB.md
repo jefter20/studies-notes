@@ -1,11 +1,11 @@
-HSB (Hue, Saturation, Brightness) é um modelo de cores que representa a formação de uma cor através do matiz, saturação e brilho. É uma alternativa ao modelo RGB e é muito utilizado em design web. 
+HSB (Hue, Saturation, Brightness) is a color model that represents the formation of a color through hue, saturation and brightness. It is an alternative to the RGB model and is widely used in web design. 
 
-O HSB é baseado na forma como o olho humano percebe as cores, sendo mais natural para os seres humanos selecionar cores através dos valores de matiz, saturação e brilho. 
+HSB is based on the way the human eye perceives colors, making it more natural for humans to select colors through hue, saturation and brightness values. 
 
-Os valores de HSB são:
+The HSB values ​​are:
 
-- **Matiz (Hue)**: Representa a cor básica no círculo cromático, sendo medido em graus 
-- **Saturação (Saturation)**: Representa a intensidade da cor, sendo medido em porcentagem 
-- **Brilho (Brightness)**: Representa a intensidade total da luz, sendo medido em porcentagem 
+- **Hue**: Represents the basic color on the color wheel, measured in degrees 
+- **Saturation**: Represents the intensity of the color, measured in percentage 
+- **Brightness**: Represents the total intensity of light, measured as a percentage 
 
-O HSB é muito utilizado em ferramentas para escolha de cores, como em projetos de interfaces.
+HSB is widely used in color selection tools, such as in interface designs.

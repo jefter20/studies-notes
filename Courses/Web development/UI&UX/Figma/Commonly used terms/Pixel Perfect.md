@@ -1,4 +1,3 @@
+Pixel perfect is a design technique that refers to the precision in positioning each element of a layout in relation to the pixels on the screen. The term means that each pixel is placed carefully, without variations or deviations. 
 
-Pixel perfect é uma técnica de design que se refere à precisão no posicionamento de cada elemento de um layout em relação aos pixels da tela. O termo significa que cada pixel é colocado com cuidado, sem variações ou desvios. 
-
-O pixel perfect é um conceito importante para o desenvolvimento de interfaces digitais de qualidade, pois garante que o design seja visualmente atraente e funcional em qualquer dispositivo.
+Pixel perfect is an important concept for developing quality digital interfaces, as it ensures that the design is visually attractive and functional on any device.

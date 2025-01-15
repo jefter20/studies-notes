@@ -1,17 +1,17 @@
-Auto Layout é uma propriedade que permite que os layouts se adaptem automaticamente a diferentes tamanhos de tela, dispositivos e orientações. 
+Auto Layout is a property that allows layouts to automatically adapt to different screen sizes, devices, and orientations. 
 
-O Auto Layout é uma ferramenta de design que simplifica e agiliza a criação de interfaces de usuário. Ele permite que os designers criem layouts adaptáveis que se ajustam automaticamente a mudanças internas e externas. 
+Auto Layout is a design tool that simplifies and speeds up creating user interfaces. It allows designers to create adaptive layouts that automatically adjust to internal and external changes. 
 
-O Auto Layout é presente em várias ferramentas de design e desenvolvimento de interfaces, como o Figma e o Sketch. 
+Auto Layout is present in several interface design and development tools, such as Figma and Sketch. 
 
-Para usar o Auto Layout, é possível: 
+To use Auto Layout, you can: 
 
-1. Adicionar a propriedade a um quadro ou a um grupo de itens
-2. Definir regras de posicionamento e dimensionamento dos elementos de um design
-3. Aplicar restrições nas visualizações
+1. Add the property to a board or group of items
+2. Define rules for positioning and sizing design elements
+3. Apply restrictions on views
 
-O Auto Layout é útil para: 
+Auto Layout is useful for: 
 
-- Criar designs responsivos
-- Acomodar rapidamente qualquer alteração de tamanho no layout ou no conteúdo
-- Criar dimensionamento responsivo para diferentes dispositivos e quantidades variadas de conteúdo
+- Create responsive designs
+- Quickly accommodate any size changes to layout or content
+- Create responsive scaling for different devices and varying amounts of content
